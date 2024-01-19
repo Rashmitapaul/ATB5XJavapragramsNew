@@ -1,6 +1,6 @@
 package src.bacis_jan07_inheritance.hierachical;
 
-public class Lab139 {
+public class Lab140 {
     public static void main(String[] args) {
        // Car c = new Car();
        // Truck t = new Truck();
