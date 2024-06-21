@@ -1,4 +1,4 @@
-package src.javaOOPSConceptCode.interfacecoding;
+package src.javaOOPSConceptCode;
 
 public interface Customer {
     //Interface variable

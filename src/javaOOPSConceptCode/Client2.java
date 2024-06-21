@@ -1,4 +1,4 @@
-package src.javaOOPSConceptCode.interfacecoding;
+package src.javaOOPSConceptCode;
 //Interface method
 public interface Client2 {
     void webdesign();

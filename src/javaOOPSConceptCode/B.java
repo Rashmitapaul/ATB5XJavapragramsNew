@@ -1,4 +1,4 @@
-package src.javaOOPSConceptCode.interfacecoding;
+package src.javaOOPSConceptCode;
 //Multiple inheritance using interface
  interface B {
     void doc();
